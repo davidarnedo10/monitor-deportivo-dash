@@ -1,0 +1,416 @@
+{
+  "deportistas": {
+    "1": {
+      "usuario": "admin",
+      "nombre": "Carlos Rodríguez",
+      "deporte": "Fútbol",
+      "edad": 25,
+      "peso": 75,
+      "altura": 180,
+      "contacto": "carlos@email.com",
+      "estado": "Activo",
+      "fecha_creacion": "2025-11-03"
+    },
+    "2": {
+      "usuario": "Administrador",
+      "nombre": "Jesus Gil",
+      "deporte": "Atletismo",
+      "edad": 21,
+      "peso": 65.0,
+      "altura": 179,
+      "contacto": "",
+      "estado": "Activo",
+      "fecha_creacion": "2025-11-24"
+    },
+    "3": {
+      "usuario": "Administrador",
+      "nombre": "David Arnedo",
+      "deporte": "Fútbol",
+      "edad": 19,
+      "peso": 78.0,
+      "altura": 176,
+      "contacto": "",
+      "estado": "Activo",
+      "fecha_creacion": "2025-11-24"
+    },
+    "6": {
+      "usuario": "Administrador",
+      "nombre": "Carlos Torres",
+      "posicion": "Delantero",
+      "pie_habil": "Derecho",
+      "numero_camiseta": 9,
+      "deporte": "Fútbol",
+      "edad": 19,
+      "peso": 63.0,
+      "altura": 172,
+      "contacto": "",
+      "estado": "Activo",
+      "fecha_creacion": "2025-11-24"
+    }
+  },
+  "entrenamientos": {
+    "1": [
+      {
+        "fecha": "2025-10-28",
+        "duracion_min": 111,
+        "intensidad": 6,
+        "carga_fisica": 441,
+        "fatiga": 4,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-10-29",
+        "duracion_min": 63,
+        "intensidad": 8,
+        "carga_fisica": 570,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-10-30",
+        "duracion_min": 108,
+        "intensidad": 6,
+        "carga_fisica": 430,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-10-31",
+        "duracion_min": 97,
+        "intensidad": 6,
+        "carga_fisica": 314,
+        "fatiga": 5,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-01",
+        "duracion_min": 103,
+        "intensidad": 6,
+        "carga_fisica": 465,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-02",
+        "duracion_min": 74,
+        "intensidad": 7,
+        "carga_fisica": 500,
+        "fatiga": 5,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-03",
+        "duracion_min": 94,
+        "intensidad": 8,
+        "carga_fisica": 452,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      }
+    ],
+    "2": [
+      {
+        "fecha": "2025-11-18",
+        "duracion_min": 91,
+        "intensidad": 6,
+        "carga_fisica": 498,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-19",
+        "duracion_min": 67,
+        "intensidad": 7,
+        "carga_fisica": 540,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-20",
+        "duracion_min": 69,
+        "intensidad": 6,
+        "carga_fisica": 400,
+        "fatiga": 3,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-21",
+        "duracion_min": 93,
+        "intensidad": 8,
+        "carga_fisica": 565,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-22",
+        "duracion_min": 101,
+        "intensidad": 8,
+        "carga_fisica": 328,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-23",
+        "duracion_min": 114,
+        "intensidad": 7,
+        "carga_fisica": 317,
+        "fatiga": 4,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-24",
+        "duracion_min": 111,
+        "intensidad": 8,
+        "carga_fisica": 338,
+        "fatiga": 5,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      }
+    ],
+    "3": [
+      {
+        "fecha": "2025-11-18",
+        "duracion_min": 100,
+        "intensidad": 7,
+        "carga_fisica": 493,
+        "fatiga": 3,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-19",
+        "duracion_min": 107,
+        "intensidad": 8,
+        "carga_fisica": 341,
+        "fatiga": 3,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-20",
+        "duracion_min": 106,
+        "intensidad": 6,
+        "carga_fisica": 351,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-21",
+        "duracion_min": 85,
+        "intensidad": 7,
+        "carga_fisica": 433,
+        "fatiga": 5,
+        "tipo_entrenamiento": "Físico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-22",
+        "duracion_min": 69,
+        "intensidad": 8,
+        "carga_fisica": 378,
+        "fatiga": 5,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-23",
+        "duracion_min": 107,
+        "intensidad": 7,
+        "carga_fisica": 379,
+        "fatiga": 3,
+        "tipo_entrenamiento": "Táctico",
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-24",
+        "duracion_min": 109,
+        "intensidad": 6,
+        "carga_fisica": 431,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Técnico",
+        "comentarios": "Entrenamiento regular"
+      }
+    ],
+    "6": [
+      {
+        "fecha": "2025-11-18",
+        "duracion_min": 73,
+        "intensidad": 7,
+        "carga_fisica": 349,
+        "fatiga": 4,
+        "tipo_entrenamiento": "Técnico",
+        "goles": 2,
+        "asistencias": 1,
+        "km_recorridos": 9.1,
+        "pases_completados": 29,
+        "ritmo_medio": 11.9,
+        "recuperaciones": 6,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-19",
+        "duracion_min": 63,
+        "intensidad": 6,
+        "carga_fisica": 456,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Físico",
+        "goles": 1,
+        "asistencias": 1,
+        "km_recorridos": 10.5,
+        "pases_completados": 33,
+        "ritmo_medio": 12.1,
+        "recuperaciones": 5,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-20",
+        "duracion_min": 77,
+        "intensidad": 7,
+        "carga_fisica": 583,
+        "fatiga": 4,
+        "tipo_entrenamiento": "Partido",
+        "goles": 0,
+        "asistencias": 0,
+        "km_recorridos": 8.2,
+        "pases_completados": 22,
+        "ritmo_medio": 12.4,
+        "recuperaciones": 4,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-21",
+        "duracion_min": 64,
+        "intensidad": 7,
+        "carga_fisica": 463,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Táctico",
+        "goles": 2,
+        "asistencias": 1,
+        "km_recorridos": 8.3,
+        "pases_completados": 27,
+        "ritmo_medio": 11.3,
+        "recuperaciones": 2,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-22",
+        "duracion_min": 67,
+        "intensidad": 8,
+        "carga_fisica": 386,
+        "fatiga": 6,
+        "tipo_entrenamiento": "Partido",
+        "goles": 1,
+        "asistencias": 1,
+        "km_recorridos": 11.5,
+        "pases_completados": 28,
+        "ritmo_medio": 12.5,
+        "recuperaciones": 6,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-23",
+        "duracion_min": 114,
+        "intensidad": 7,
+        "carga_fisica": 446,
+        "fatiga": 3,
+        "tipo_entrenamiento": "Físico",
+        "goles": 2,
+        "asistencias": 1,
+        "km_recorridos": 9.0,
+        "pases_completados": 20,
+        "ritmo_medio": 10.7,
+        "recuperaciones": 3,
+        "comentarios": "Entrenamiento regular"
+      },
+      {
+        "fecha": "2025-11-24",
+        "duracion_min": 109,
+        "intensidad": 8,
+        "carga_fisica": 486,
+        "fatiga": 7,
+        "tipo_entrenamiento": "Partido",
+        "goles": 0,
+        "asistencias": 1,
+        "km_recorridos": 10.1,
+        "pases_completados": 23,
+        "ritmo_medio": 10.8,
+        "recuperaciones": 5,
+        "comentarios": "Entrenamiento regular"
+      }
+    ]
+  },
+  "metricas_detalladas": {
+    "6": {
+      "velocidad_maxima": 33.5,
+      "aceleracion": 9.4,
+      "precision_tiro": 79,
+      "regate": 84,
+      "fuerza_tiro": 89,
+      "vision_juego": 77,
+      "resistencia": 88,
+      "pases_clave": 4,
+      "duelos_ganados": 5,
+      "eficacia_remate": 74,
+      "mapa_calor": {
+        "area_ataque": 90,
+        "area_mediocampo": 55,
+        "area_defensa": 31,
+        "bandas": 70,
+        "centro_campo": 86
+      }
+    }
+  },
+  "david": {
+    "password": "a389a638dec32538f55b0c8dc5c84f84aad65bcd5aacd5f05d36f30b71271a6b",
+    "nombre": "David Arnedo Lozano",
+    "email": "david@gmail.com",
+    "rol": "entrenador",
+    "club": "A.D.Villaviciosa de Odón",
+    "fecha_registro": "2025-12-01"
+  },
+  "entrenador": {
+    "password": "138ff2912c5fca8b3411d11a4be3439d068525f543c9af8eab47b8ec338e2139",
+    "nombre": "Entrenador",
+    "email": "entrenador@gmail.com",
+    "rol": "entrenador",
+    "club": "Club1",
+    "fecha_registro": "2025-12-15"
+  },
+  "carlos": {
+    "password": "ac9c2c34c9f7ad52528c3422af40a66e2e24aaf2a727831255413c9470158984",
+    "nombre": "Carlos",
+    "email": "carlos@gmail.com",
+    "rol": "entrenador",
+    "club": "Guadalajara FC",
+    "fecha_registro": "2026-02-12"
+  },
+  "Arnedo": {
+    "password": "0f14089313b20c1723ec1d660b0aaa4f473cf5b321cd370f2d48b7bcf9a7b234",
+    "nombre": "David Arnedo",
+    "email": "david.arnedo@gmail.com",
+    "rol": "entrenador",
+    "club": "ADVillaviciosa de Odón",
+    "fecha_registro": "2026-02-25"
+  },
+  "Patri": {
+    "password": "d86dc6e60b0632e30f2a78abe922c238e913dd5c74f76df6dc935f1ec73a5df6",
+    "nombre": "Patricia",
+    "email": "patricia@gmail.com",
+    "rol": "entrenador",
+    "club": "Mostoleta",
+    "fecha_registro": "2026-02-25"
+  }
+}

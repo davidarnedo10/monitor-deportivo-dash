@@ -1,0 +1,18 @@
+{
+  "entrenador": {
+    "password": "defbe44d30454a18fbbd862cfe5e59818d18dafd8feba4d71a797c20c265b672",
+    "nombre": "Director T\u00e9cnico",
+    "email": "entrenador@club.com",
+    "rol": "entrenador",
+    "club": "Club de F\u00fatbol",
+    "fecha_registro": "2025-12-01"
+  },
+  "preparador": {
+    "password": "2b473c2d428ea1071d2e3d3a152154216a2cb099c9962b24fb4e4df3874efded",
+    "nombre": "Preparador F\u00edsico",
+    "email": "preparador@club.com",
+    "rol": "preparador",
+    "club": "Club de F\u00fatbol",
+    "fecha_registro": "2025-12-01"
+  }
+}

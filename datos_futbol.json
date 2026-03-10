@@ -1,0 +1,1126 @@
+{
+  "jugadores": {
+    "1": {
+      "nombre": "Lionel Messi",
+      "posicion": "Extremo Derecho",
+      "numero": 10,
+      "edad": 38,
+      "peso": 70.0,
+      "altura": 172,
+      "pie_habil": "Izquierdo",
+      "estado": "Activo",
+      "lesionado": false,
+      "fecha_ingreso": "2026-02-25"
+    }
+  },
+  "entrenamientos": {
+    "1": [
+      {
+        "fecha": "2026-02-19",
+        "tipo": "Partido",
+        "duracion": 96,
+        "distancia": 11.9,
+        "sprints": 32,
+        "carga": 452,
+        "fatiga": 6,
+        "frecuencia_max": 182,
+        "frecuencia_prom": 134
+      },
+      {
+        "fecha": "2026-02-20",
+        "tipo": "Partido",
+        "duracion": 94,
+        "distancia": 11.7,
+        "sprints": 32,
+        "carga": 406,
+        "fatiga": 3,
+        "frecuencia_max": 178,
+        "frecuencia_prom": 123
+      },
+      {
+        "fecha": "2026-02-21",
+        "tipo": "Físico",
+        "duracion": 116,
+        "distancia": 9.0,
+        "sprints": 29,
+        "carga": 448,
+        "fatiga": 4,
+        "frecuencia_max": 191,
+        "frecuencia_prom": 148
+      },
+      {
+        "fecha": "2026-02-22",
+        "tipo": "Partido",
+        "duracion": 98,
+        "distancia": 10.5,
+        "sprints": 25,
+        "carga": 519,
+        "fatiga": 7,
+        "frecuencia_max": 166,
+        "frecuencia_prom": 143
+      },
+      {
+        "fecha": "2026-02-23",
+        "tipo": "Táctico",
+        "duracion": 113,
+        "distancia": 10.8,
+        "sprints": 32,
+        "carga": 567,
+        "fatiga": 4,
+        "frecuencia_max": 164,
+        "frecuencia_prom": 148
+      },
+      {
+        "fecha": "2026-02-24",
+        "tipo": "Táctico",
+        "duracion": 74,
+        "distancia": 9.7,
+        "sprints": 26,
+        "carga": 476,
+        "fatiga": 6,
+        "frecuencia_max": 168,
+        "frecuencia_prom": 130
+      },
+      {
+        "fecha": "2026-02-25",
+        "tipo": "Partido",
+        "duracion": 87,
+        "distancia": 9.2,
+        "sprints": 33,
+        "carga": 580,
+        "fatiga": 3,
+        "frecuencia_max": 165,
+        "frecuencia_prom": 148
+      }
+    ]
+  },
+  "metricas": {
+    "1": {
+      "definicion": 94,
+      "disparo": 82,
+      "velocidad": 89,
+      "regate": 81,
+      "juego_aereo": 75,
+      "movimiento": 77,
+      "frecuencia_reposo": 66,
+      "frecuencia_maxima": 193,
+      "vo2_max": 45.3,
+      "velocidad_maxima": 31.2,
+      "aceleracion_10m": 1.7,
+      "salto_vertical": 61.4,
+      "mapa_calor_datos": [
+        {
+          "x": 81.2,
+          "y": 63.6,
+          "intensidad": 0.99
+        },
+        {
+          "x": 93.7,
+          "y": 21.1,
+          "intensidad": 0.98
+        },
+        {
+          "x": 62.7,
+          "y": 78.0,
+          "intensidad": 0.93
+        },
+        {
+          "x": 69.2,
+          "y": 73.7,
+          "intensidad": 0.87
+        },
+        {
+          "x": 91.2,
+          "y": 52.8,
+          "intensidad": 0.85
+        },
+        {
+          "x": 98.1,
+          "y": 69.6,
+          "intensidad": 0.9
+        },
+        {
+          "x": 92.7,
+          "y": 27.6,
+          "intensidad": 0.94
+        },
+        {
+          "x": 83.9,
+          "y": 49.2,
+          "intensidad": 0.82
+        },
+        {
+          "x": 81.3,
+          "y": 27.5,
+          "intensidad": 0.76
+        },
+        {
+          "x": 97.0,
+          "y": 53.8,
+          "intensidad": 0.76
+        },
+        {
+          "x": 85.5,
+          "y": 50.9,
+          "intensidad": 0.81
+        },
+        {
+          "x": 76.9,
+          "y": 40.1,
+          "intensidad": 0.78
+        },
+        {
+          "x": 80.9,
+          "y": 40.1,
+          "intensidad": 0.91
+        },
+        {
+          "x": 99.2,
+          "y": 51.0,
+          "intensidad": 0.74
+        },
+        {
+          "x": 81.5,
+          "y": 67.1,
+          "intensidad": 0.91
+        },
+        {
+          "x": 79.9,
+          "y": 39.9,
+          "intensidad": 0.97
+        },
+        {
+          "x": 91.7,
+          "y": 62.8,
+          "intensidad": 0.94
+        },
+        {
+          "x": 97.7,
+          "y": 79.7,
+          "intensidad": 0.97
+        },
+        {
+          "x": 72.2,
+          "y": 69.3,
+          "intensidad": 0.92
+        },
+        {
+          "x": 80.8,
+          "y": 73.5,
+          "intensidad": 0.95
+        },
+        {
+          "x": 67.2,
+          "y": 35.6,
+          "intensidad": 0.95
+        },
+        {
+          "x": 88.0,
+          "y": 72.6,
+          "intensidad": 0.72
+        },
+        {
+          "x": 61.1,
+          "y": 22.6,
+          "intensidad": 0.87
+        },
+        {
+          "x": 81.6,
+          "y": 24.6,
+          "intensidad": 0.98
+        },
+        {
+          "x": 66.5,
+          "y": 70.6,
+          "intensidad": 0.76
+        },
+        {
+          "x": 76.1,
+          "y": 67.1,
+          "intensidad": 0.78
+        },
+        {
+          "x": 88.4,
+          "y": 45.5,
+          "intensidad": 0.84
+        },
+        {
+          "x": 93.6,
+          "y": 55.5,
+          "intensidad": 0.82
+        },
+        {
+          "x": 81.7,
+          "y": 78.0,
+          "intensidad": 0.9
+        },
+        {
+          "x": 60.4,
+          "y": 31.9,
+          "intensidad": 0.9
+        },
+        {
+          "x": 82.1,
+          "y": 37.7,
+          "intensidad": 0.89
+        },
+        {
+          "x": 79.0,
+          "y": 69.5,
+          "intensidad": 0.86
+        },
+        {
+          "x": 89.4,
+          "y": 46.8,
+          "intensidad": 0.7
+        },
+        {
+          "x": 92.4,
+          "y": 64.4,
+          "intensidad": 0.75
+        },
+        {
+          "x": 66.1,
+          "y": 48.6,
+          "intensidad": 0.98
+        },
+        {
+          "x": 64.8,
+          "y": 74.3,
+          "intensidad": 0.74
+        },
+        {
+          "x": 94.2,
+          "y": 66.3,
+          "intensidad": 0.78
+        },
+        {
+          "x": 88.8,
+          "y": 57.5,
+          "intensidad": 0.9
+        },
+        {
+          "x": 72.3,
+          "y": 31.0,
+          "intensidad": 0.87
+        },
+        {
+          "x": 88.2,
+          "y": 31.6,
+          "intensidad": 0.91
+        },
+        {
+          "x": 76.4,
+          "y": 74.9,
+          "intensidad": 0.96
+        },
+        {
+          "x": 80.3,
+          "y": 53.2,
+          "intensidad": 0.82
+        },
+        {
+          "x": 66.5,
+          "y": 29.8,
+          "intensidad": 0.79
+        },
+        {
+          "x": 92.5,
+          "y": 60.3,
+          "intensidad": 0.94
+        },
+        {
+          "x": 94.8,
+          "y": 28.6,
+          "intensidad": 0.91
+        },
+        {
+          "x": 61.8,
+          "y": 78.8,
+          "intensidad": 0.82
+        },
+        {
+          "x": 87.6,
+          "y": 50.7,
+          "intensidad": 0.75
+        },
+        {
+          "x": 70.0,
+          "y": 62.6,
+          "intensidad": 0.77
+        },
+        {
+          "x": 75.1,
+          "y": 56.3,
+          "intensidad": 0.84
+        },
+        {
+          "x": 66.1,
+          "y": 27.9,
+          "intensidad": 0.96
+        },
+        {
+          "x": 60.2,
+          "y": 52.7,
+          "intensidad": 0.72
+        },
+        {
+          "x": 74.1,
+          "y": 25.0,
+          "intensidad": 0.98
+        },
+        {
+          "x": 98.3,
+          "y": 22.2,
+          "intensidad": 0.91
+        },
+        {
+          "x": 85.7,
+          "y": 71.8,
+          "intensidad": 0.96
+        },
+        {
+          "x": 99.6,
+          "y": 20.3,
+          "intensidad": 0.95
+        },
+        {
+          "x": 68.2,
+          "y": 51.2,
+          "intensidad": 0.98
+        },
+        {
+          "x": 69.8,
+          "y": 79.6,
+          "intensidad": 0.84
+        },
+        {
+          "x": 64.0,
+          "y": 68.8,
+          "intensidad": 0.97
+        },
+        {
+          "x": 96.8,
+          "y": 22.3,
+          "intensidad": 0.76
+        },
+        {
+          "x": 72.9,
+          "y": 24.5,
+          "intensidad": 0.92
+        },
+        {
+          "x": 94.3,
+          "y": 47.5,
+          "intensidad": 0.98
+        },
+        {
+          "x": 75.8,
+          "y": 63.2,
+          "intensidad": 0.78
+        },
+        {
+          "x": 81.0,
+          "y": 29.3,
+          "intensidad": 0.88
+        },
+        {
+          "x": 87.5,
+          "y": 44.9,
+          "intensidad": 0.86
+        },
+        {
+          "x": 73.1,
+          "y": 42.4,
+          "intensidad": 0.84
+        },
+        {
+          "x": 86.9,
+          "y": 29.0,
+          "intensidad": 0.83
+        },
+        {
+          "x": 66.4,
+          "y": 43.2,
+          "intensidad": 0.72
+        },
+        {
+          "x": 92.9,
+          "y": 57.4,
+          "intensidad": 0.93
+        },
+        {
+          "x": 71.8,
+          "y": 53.1,
+          "intensidad": 0.95
+        },
+        {
+          "x": 86.1,
+          "y": 66.5,
+          "intensidad": 0.82
+        },
+        {
+          "x": 64.7,
+          "y": 61.0,
+          "intensidad": 0.77
+        },
+        {
+          "x": 81.1,
+          "y": 64.0,
+          "intensidad": 0.99
+        },
+        {
+          "x": 83.9,
+          "y": 46.3,
+          "intensidad": 0.97
+        },
+        {
+          "x": 80.2,
+          "y": 39.7,
+          "intensidad": 0.81
+        },
+        {
+          "x": 70.6,
+          "y": 22.1,
+          "intensidad": 0.93
+        },
+        {
+          "x": 76.9,
+          "y": 57.8,
+          "intensidad": 0.78
+        },
+        {
+          "x": 65.3,
+          "y": 71.4,
+          "intensidad": 0.96
+        },
+        {
+          "x": 94.0,
+          "y": 41.6,
+          "intensidad": 0.89
+        },
+        {
+          "x": 73.7,
+          "y": 26.4,
+          "intensidad": 0.78
+        },
+        {
+          "x": 79.5,
+          "y": 77.2,
+          "intensidad": 0.74
+        },
+        {
+          "x": 77.1,
+          "y": 38.9,
+          "intensidad": 0.78
+        },
+        {
+          "x": 75.6,
+          "y": 76.4,
+          "intensidad": 0.78
+        },
+        {
+          "x": 62.8,
+          "y": 36.1,
+          "intensidad": 0.83
+        },
+        {
+          "x": 72.9,
+          "y": 27.5,
+          "intensidad": 0.96
+        },
+        {
+          "x": 69.4,
+          "y": 38.7,
+          "intensidad": 0.7
+        },
+        {
+          "x": 96.6,
+          "y": 62.1,
+          "intensidad": 0.85
+        },
+        {
+          "x": 66.7,
+          "y": 79.3,
+          "intensidad": 0.75
+        },
+        {
+          "x": 61.0,
+          "y": 38.6,
+          "intensidad": 0.82
+        },
+        {
+          "x": 70.3,
+          "y": 34.0,
+          "intensidad": 0.94
+        },
+        {
+          "x": 94.9,
+          "y": 44.6,
+          "intensidad": 0.83
+        },
+        {
+          "x": 73.7,
+          "y": 34.3,
+          "intensidad": 0.97
+        },
+        {
+          "x": 73.2,
+          "y": 65.5,
+          "intensidad": 0.91
+        },
+        {
+          "x": 62.7,
+          "y": 20.6,
+          "intensidad": 0.75
+        },
+        {
+          "x": 78.8,
+          "y": 42.4,
+          "intensidad": 0.96
+        },
+        {
+          "x": 61.7,
+          "y": 61.9,
+          "intensidad": 0.84
+        },
+        {
+          "x": 64.5,
+          "y": 75.2,
+          "intensidad": 0.78
+        },
+        {
+          "x": 95.5,
+          "y": 53.3,
+          "intensidad": 0.94
+        },
+        {
+          "x": 82.3,
+          "y": 45.9,
+          "intensidad": 0.93
+        },
+        {
+          "x": 62.5,
+          "y": 21.0,
+          "intensidad": 0.87
+        },
+        {
+          "x": 69.9,
+          "y": 77.8,
+          "intensidad": 0.8
+        },
+        {
+          "x": 98.2,
+          "y": 20.2,
+          "intensidad": 0.96
+        },
+        {
+          "x": 66.3,
+          "y": 46.2,
+          "intensidad": 0.88
+        },
+        {
+          "x": 73.5,
+          "y": 29.8,
+          "intensidad": 0.89
+        },
+        {
+          "x": 61.2,
+          "y": 50.6,
+          "intensidad": 0.79
+        },
+        {
+          "x": 66.6,
+          "y": 71.0,
+          "intensidad": 0.71
+        },
+        {
+          "x": 67.3,
+          "y": 66.1,
+          "intensidad": 0.94
+        },
+        {
+          "x": 64.1,
+          "y": 39.3,
+          "intensidad": 0.98
+        },
+        {
+          "x": 84.0,
+          "y": 21.7,
+          "intensidad": 0.84
+        },
+        {
+          "x": 97.3,
+          "y": 53.3,
+          "intensidad": 0.87
+        },
+        {
+          "x": 71.1,
+          "y": 43.2,
+          "intensidad": 0.86
+        },
+        {
+          "x": 87.4,
+          "y": 47.5,
+          "intensidad": 0.83
+        },
+        {
+          "x": 97.9,
+          "y": 57.4,
+          "intensidad": 0.92
+        },
+        {
+          "x": 89.0,
+          "y": 34.8,
+          "intensidad": 0.99
+        },
+        {
+          "x": 77.1,
+          "y": 78.4,
+          "intensidad": 0.82
+        },
+        {
+          "x": 93.8,
+          "y": 46.4,
+          "intensidad": 0.92
+        },
+        {
+          "x": 67.2,
+          "y": 64.1,
+          "intensidad": 0.95
+        },
+        {
+          "x": 78.3,
+          "y": 70.5,
+          "intensidad": 0.98
+        },
+        {
+          "x": 69.9,
+          "y": 27.6,
+          "intensidad": 0.79
+        },
+        {
+          "x": 87.9,
+          "y": 65.8,
+          "intensidad": 0.93
+        },
+        {
+          "x": 81.9,
+          "y": 38.8,
+          "intensidad": 0.96
+        },
+        {
+          "x": 98.7,
+          "y": 73.7,
+          "intensidad": 0.97
+        },
+        {
+          "x": 72.9,
+          "y": 44.2,
+          "intensidad": 0.72
+        },
+        {
+          "x": 92.6,
+          "y": 28.5,
+          "intensidad": 0.72
+        },
+        {
+          "x": 84.0,
+          "y": 34.7,
+          "intensidad": 0.87
+        },
+        {
+          "x": 67.1,
+          "y": 23.1,
+          "intensidad": 0.78
+        },
+        {
+          "x": 99.9,
+          "y": 36.4,
+          "intensidad": 0.92
+        },
+        {
+          "x": 85.2,
+          "y": 29.0,
+          "intensidad": 0.77
+        },
+        {
+          "x": 60.4,
+          "y": 77.6,
+          "intensidad": 0.99
+        },
+        {
+          "x": 88.4,
+          "y": 31.8,
+          "intensidad": 0.72
+        },
+        {
+          "x": 65.4,
+          "y": 21.7,
+          "intensidad": 0.94
+        },
+        {
+          "x": 79.1,
+          "y": 40.5,
+          "intensidad": 0.84
+        },
+        {
+          "x": 79.3,
+          "y": 60.5,
+          "intensidad": 0.91
+        },
+        {
+          "x": 94.3,
+          "y": 25.2,
+          "intensidad": 0.89
+        },
+        {
+          "x": 81.1,
+          "y": 22.0,
+          "intensidad": 0.99
+        },
+        {
+          "x": 88.3,
+          "y": 78.4,
+          "intensidad": 1.0
+        },
+        {
+          "x": 88.8,
+          "y": 62.1,
+          "intensidad": 0.96
+        },
+        {
+          "x": 82.0,
+          "y": 40.6,
+          "intensidad": 0.86
+        },
+        {
+          "x": 70.9,
+          "y": 75.6,
+          "intensidad": 0.87
+        },
+        {
+          "x": 76.2,
+          "y": 40.3,
+          "intensidad": 0.94
+        },
+        {
+          "x": 95.9,
+          "y": 64.7,
+          "intensidad": 0.79
+        },
+        {
+          "x": 79.5,
+          "y": 68.4,
+          "intensidad": 0.71
+        },
+        {
+          "x": 87.5,
+          "y": 40.1,
+          "intensidad": 0.99
+        },
+        {
+          "x": 72.7,
+          "y": 41.4,
+          "intensidad": 0.96
+        },
+        {
+          "x": 61.2,
+          "y": 39.7,
+          "intensidad": 0.71
+        },
+        {
+          "x": 98.6,
+          "y": 56.6,
+          "intensidad": 0.98
+        },
+        {
+          "x": 89.9,
+          "y": 71.8,
+          "intensidad": 0.91
+        },
+        {
+          "x": 97.7,
+          "y": 58.2,
+          "intensidad": 0.74
+        },
+        {
+          "x": 79.7,
+          "y": 38.7,
+          "intensidad": 0.77
+        },
+        {
+          "x": 98.3,
+          "y": 37.4,
+          "intensidad": 0.75
+        },
+        {
+          "x": 63.6,
+          "y": 42.8,
+          "intensidad": 0.8
+        },
+        {
+          "x": 90.5,
+          "y": 24.6,
+          "intensidad": 0.86
+        },
+        {
+          "x": 65.2,
+          "y": 42.5,
+          "intensidad": 0.89
+        },
+        {
+          "x": 93.9,
+          "y": 58.1,
+          "intensidad": 0.9
+        },
+        {
+          "x": 69.7,
+          "y": 26.6,
+          "intensidad": 0.98
+        },
+        {
+          "x": 68.2,
+          "y": 67.1,
+          "intensidad": 0.75
+        },
+        {
+          "x": 82.1,
+          "y": 36.7,
+          "intensidad": 0.79
+        },
+        {
+          "x": 90.0,
+          "y": 21.9,
+          "intensidad": 0.86
+        },
+        {
+          "x": 90.4,
+          "y": 57.2,
+          "intensidad": 0.7
+        },
+        {
+          "x": 74.2,
+          "y": 23.6,
+          "intensidad": 0.82
+        },
+        {
+          "x": 70.8,
+          "y": 77.7,
+          "intensidad": 0.81
+        },
+        {
+          "x": 79.2,
+          "y": 33.3,
+          "intensidad": 0.92
+        },
+        {
+          "x": 67.5,
+          "y": 33.5,
+          "intensidad": 0.95
+        },
+        {
+          "x": 79.2,
+          "y": 21.8,
+          "intensidad": 0.77
+        },
+        {
+          "x": 71.7,
+          "y": 70.2,
+          "intensidad": 0.95
+        },
+        {
+          "x": 63.2,
+          "y": 74.3,
+          "intensidad": 0.85
+        },
+        {
+          "x": 83.5,
+          "y": 50.0,
+          "intensidad": 0.98
+        },
+        {
+          "x": 63.5,
+          "y": 51.1,
+          "intensidad": 0.91
+        },
+        {
+          "x": 86.3,
+          "y": 75.8,
+          "intensidad": 0.89
+        },
+        {
+          "x": 83.5,
+          "y": 37.0,
+          "intensidad": 0.72
+        },
+        {
+          "x": 75.3,
+          "y": 25.9,
+          "intensidad": 0.89
+        },
+        {
+          "x": 73.1,
+          "y": 50.4,
+          "intensidad": 0.92
+        },
+        {
+          "x": 98.6,
+          "y": 37.9,
+          "intensidad": 0.9
+        },
+        {
+          "x": 92.2,
+          "y": 53.1,
+          "intensidad": 0.85
+        },
+        {
+          "x": 79.6,
+          "y": 52.3,
+          "intensidad": 0.97
+        },
+        {
+          "x": 81.9,
+          "y": 47.3,
+          "intensidad": 0.97
+        },
+        {
+          "x": 94.1,
+          "y": 58.4,
+          "intensidad": 0.94
+        },
+        {
+          "x": 78.4,
+          "y": 69.3,
+          "intensidad": 0.94
+        },
+        {
+          "x": 65.4,
+          "y": 25.5,
+          "intensidad": 0.76
+        },
+        {
+          "x": 87.5,
+          "y": 70.7,
+          "intensidad": 0.95
+        },
+        {
+          "x": 86.7,
+          "y": 73.4,
+          "intensidad": 0.8
+        },
+        {
+          "x": 87.3,
+          "y": 48.0,
+          "intensidad": 0.97
+        },
+        {
+          "x": 64.3,
+          "y": 28.0,
+          "intensidad": 0.96
+        },
+        {
+          "x": 70.9,
+          "y": 37.1,
+          "intensidad": 0.84
+        },
+        {
+          "x": 85.7,
+          "y": 74.0,
+          "intensidad": 0.73
+        },
+        {
+          "x": 92.3,
+          "y": 38.6,
+          "intensidad": 0.77
+        },
+        {
+          "x": 91.1,
+          "y": 52.5,
+          "intensidad": 0.74
+        },
+        {
+          "x": 97.9,
+          "y": 33.6,
+          "intensidad": 0.74
+        },
+        {
+          "x": 83.4,
+          "y": 24.0,
+          "intensidad": 0.86
+        },
+        {
+          "x": 75.3,
+          "y": 28.5,
+          "intensidad": 0.93
+        },
+        {
+          "x": 96.6,
+          "y": 70.9,
+          "intensidad": 0.85
+        },
+        {
+          "x": 95.0,
+          "y": 31.5,
+          "intensidad": 0.95
+        },
+        {
+          "x": 85.4,
+          "y": 72.1,
+          "intensidad": 0.75
+        },
+        {
+          "x": 87.5,
+          "y": 72.0,
+          "intensidad": 0.91
+        },
+        {
+          "x": 89.7,
+          "y": 26.2,
+          "intensidad": 0.88
+        },
+        {
+          "x": 80.3,
+          "y": 32.0,
+          "intensidad": 0.9
+        },
+        {
+          "x": 76.1,
+          "y": 56.1,
+          "intensidad": 0.72
+        },
+        {
+          "x": 95.1,
+          "y": 33.5,
+          "intensidad": 0.96
+        },
+        {
+          "x": 68.1,
+          "y": 77.2,
+          "intensidad": 0.97
+        },
+        {
+          "x": 69.2,
+          "y": 25.4,
+          "intensidad": 0.72
+        },
+        {
+          "x": 70.6,
+          "y": 73.4,
+          "intensidad": 0.78
+        }
+      ]
+    }
+  },
+  "datos_medicos": {
+    "1": {
+      "ultimo_control": "2026-02-22",
+      "lesiones_previas": 2,
+      "historial_lesiones": [
+        {
+          "tipo": "Conmoción cerebral",
+          "fecha": "2025-05-15",
+          "duracion_dias": 7,
+          "tiempo_baja": "2-4 semanas",
+          "gravedad": "Leve",
+          "recuperacion_completa": 

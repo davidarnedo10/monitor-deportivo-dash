@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "nombre": "Administrador",
+    "email": "admin@sportmed.com",
+    "fecha_registro": "2025-11-03"
+  },
+  "david": {
+    "password": "a389a638dec32538f55b0c8dc5c84f84aad65bcd5aacd5f05d36f30b71271a6b",
+    "nombre": "David Arnedo Lozano",
+    "email": "david@gmail.com",
+    "fecha_registro": "2025-11-24"
+  }
+}
